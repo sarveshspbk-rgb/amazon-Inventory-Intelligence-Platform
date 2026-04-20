@@ -70,4 +70,4 @@ No installation required. Just open `index.html` in any modern browser and it wo
 
 ## About
 
-Built by **Sarvesh Sawant** as a portfolio project during the MSc in Data Analytics at Dublin City University. The goal was to demonstrate product thinking, UI design, and data storytelling — specifically how operational data and external signals can be combined to drive better business decisions in supply chain and inventory management.
+Built by **Sarvesh Babu** as a portfolio project during the MSc in Data Analytics at Dublin City University. The goal was to demonstrate product thinking, UI design, and data storytelling — specifically how operational data and external signals can be combined to drive better business decisions in supply chain and inventory management.
